@@ -1,0 +1,12 @@
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\bin\Debug\net6.0\ObserverLib.deps.json
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\bin\Debug\net6.0\ObserverLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\bin\Debug\net6.0\ref\ObserverLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\bin\Debug\net6.0\ObserverLib.pdb
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.csproj.AssemblyReference.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.AssemblyInfoInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.AssemblyInfo.cs
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.csproj.CoreCompileInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ref\ObserverLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ObserverHelloWorld\ObserverLib\obj\Debug\net6.0\ObserverLib.pdb

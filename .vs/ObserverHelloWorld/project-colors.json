@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e383b15a-aa90-459a-9469-f1b203bf69e9": {
+      "ProjectGuid": "e383b15a-aa90-459a-9469-f1b203bf69e9",
+      "DisplayName": "ObserverHelloWorld",
+      "ColorIndex": 0
+    },
+    "f7b1f4bb-1b8d-4a56-9b63-45f40ad01b47": {
+      "ProjectGuid": "f7b1f4bb-1b8d-4a56-9b63-45f40ad01b47",
+      "DisplayName": "ObserverLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
