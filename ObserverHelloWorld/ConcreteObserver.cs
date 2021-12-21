@@ -18,10 +18,9 @@ namespace ObserverHelloWorld
             return name;
         }
 
-        public void Update()
+        public void Update(int state, string msg)
         {
-            int nr = subject.State;
-            Console.WriteLine($"{DateTime.Now:HH:mm:ss}: {name} ");
+            Console.WriteLine($"{this}: {state} ");
         }
 
         public void Exit()
