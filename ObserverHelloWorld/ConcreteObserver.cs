@@ -18,9 +18,11 @@ namespace ObserverHelloWorld
             return name;
         }
 
-        public void Update(int state, string msg)
+        public void Update(object sender,DataEventArgs dataEventArgs)
         {
-            Console.WriteLine($"{this}: {state} ");
+            var senderObject = sender as ConcreteSubject;
+            int nr = senderObject.Counter;
+            Console.WriteLine($"{this}: {dataEventArgs.State} ");
         }
 
         public void Exit()
