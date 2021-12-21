@@ -1,17 +1,16 @@
-﻿global using ObserverLib;
-
+﻿
 namespace ObserverHelloWorld
 {
-    internal class ConcreteObserver : IObserver
+    internal class ConcreteObserver
     {
-        private static int count = 1;
+        private static int counter = 1;
         private readonly string name;
         private readonly ConcreteSubject subject;
 
-        public ConcreteObserver(ConcreteSubject concrete) {
-            this.subject = concrete;
-            name = $"Observer_{count++}";
-            subject.Attach(this);
+        public ConcreteObserver(ConcreteSubject subject) {
+            this.subject = subject;
+            name = $"Observer_{counter++}";
+            this.subject.Notify += Update;
         }
 
         public override string ToString()
@@ -27,7 +26,7 @@ namespace ObserverHelloWorld
 
         public void Exit()
         {
-            subject.Detach(this);
+            this.subject.Notify -= Update;
         }
     }
 }

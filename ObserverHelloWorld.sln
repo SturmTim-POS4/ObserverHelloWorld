@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverHelloWorld", "ObserverHelloWorld\ObserverHelloWorld.csproj", "{E383B15A-AA90-459A-9469-F1B203BF69E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverLib", "ObserverLib\ObserverLib.csproj", "{F7B1F4BB-1B8D-4A56-9B63-45F40AD01B47}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{E383B15A-AA90-459A-9469-F1B203BF69E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E383B15A-AA90-459A-9469-F1B203BF69E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E383B15A-AA90-459A-9469-F1B203BF69E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F7B1F4BB-1B8D-4A56-9B63-45F40AD01B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7B1F4BB-1B8D-4A56-9B63-45F40AD01B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7B1F4BB-1B8D-4A56-9B63-45F40AD01B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7B1F4BB-1B8D-4A56-9B63-45F40AD01B47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
